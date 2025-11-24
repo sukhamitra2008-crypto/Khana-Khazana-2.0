@@ -7,6 +7,33 @@ terminal interface.
 
 ------------------------------------------------------------------------
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-01.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-02.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-03.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-04.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-05.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sukhamitra2008-crypto/Khana-Khazana-2.0/0aba5bc8eeb55efd4b22963984dd5fff0f8cf492/Resturant-SS-06.png" width="80%" />
+</p>
+
+
 ## 🚀 **Features**
 
 ### 📜 Pre-Loaded Menu
